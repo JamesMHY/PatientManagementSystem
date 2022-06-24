@@ -1,0 +1,65 @@
+[{
+        "appointment_no": 1,
+        "user_id": "1",
+        "doctor": "Serina James",
+        "appointment_date_from": "Jan 31, 2021, 12:00:00 AM",
+        "appointment_date_to": "Feb 3, 2021, 12:00:00 AM",
+        "record_date": "Jan 31, 2021, 9:03:19 PM",
+        "status": true
+    }, {
+        "appointment_no": 2,
+        "user_id": "1",
+        "doctor": "Serina James",
+        "appointment_date_from": "Jan 31, 2021, 9:03:19 PM",
+        "appointment_date_to": "Jan 31, 2021, 9:03:19 PM",
+        "record_date": "Jan 31, 2021, 9:03:19 PM",
+        "status": true
+    }, {
+        "appointment_no": 3,
+        "user_id": "1",
+        "doctor": "Serina James",
+        "appointment_date_from": "Feb 1, 2021, 12:00:00 AM",
+        "appointment_date_to": "Feb 1, 2021, 12:00:00 AM",
+        "record_date": "Feb 1, 2021, 11:54:34 PM",
+        "status": false
+    }, {
+        "appointment_no": 4,
+        "user_id": "1",
+        "doctor": "Serina James",
+        "appointment_date_from": "Feb 4, 2021, 12:00:00 AM",
+        "appointment_date_to": "Feb 4, 2021, 12:00:00 AM",
+        "record_date": "Feb 2, 2021, 12:22:13 AM",
+        "status": false
+    }, {
+        "appointment_no": 5,
+        "user_id": "1",
+        "doctor": "Serina James",
+        "appointment_date_from": "Feb 5, 2021, 12:00:00 AM",
+        "appointment_date_to": "Feb 5, 2021, 12:00:00 AM",
+        "record_date": "Feb 2, 2021, 12:22:22 AM",
+        "status": false
+    }, {
+        "appointment_no": 6,
+        "user_id": "sallytam",
+        "doctor": "Danny Tsang",
+        "appointment_date_from": "Feb 2, 2021, 12:00:00 AM",
+        "appointment_date_to": "Feb 4, 2021, 12:00:00 AM",
+        "record_date": "Feb 2, 2021, 12:38:51 AM",
+        "status": true
+    }, {
+        "appointment_no": 7,
+        "user_id": "3",
+        "doctor": "Serina James",
+        "appointment_date_from": "Feb 13, 2021, 12:00:00 AM",
+        "appointment_date_to": "Feb 13, 2021, 12:00:00 AM",
+        "record_date": "Feb 11, 2021, 12:05:47 AM",
+        "status": true
+    }, {
+        "appointment_no": 8,
+        "user_id": "mandycheung",
+        "doctor": "Serina James",
+        "appointment_date_from": "Feb 10, 2021, 12:00:00 AM",
+        "appointment_date_to": "Feb 12, 2021, 12:00:00 AM",
+        "record_date": "Feb 12, 2021, 9:44:28 PM",
+        "status": false
+    }]
